@@ -12380,6 +12380,20 @@ entries:
     - https://github.com/2gis/on-premise-helm-charts/releases/download/navi-castle-1.3.0/navi-castle-1.3.0.tgz
     version: 1.3.0
   - apiVersion: v2
+    appVersion: 1.9.8
+    created: "2025-05-12T09:44:26.243609889Z"
+    description: Castle Helm chart for Kubernetes
+    digest: d4f6e29298af38d8dda6ee1a4677d6221affc244d1768610b7f6d6d32616fe48
+    maintainers:
+    - email: on-premise@2gis.com
+      name: 2gis
+      url: https://github.com/2gis
+    name: navi-castle
+    type: application
+    urls:
+    - https://github.com/DAMoskalev/on-premise-helm-charts-fork/releases/download/navi-castle-1.2.5/navi-castle-1.2.5.tgz
+    version: 1.2.5
+  - apiVersion: v2
     appVersion: 1.0.5
     created: "2022-08-16T05:05:45.476936273Z"
     description: Castle Helm chart for Kubernetes
@@ -24306,4 +24320,4 @@ entries:
     urls:
     - https://github.com/2gis/on-premise-helm-charts/releases/download/zookeeper-1.5.2/zookeeper-1.5.2.tgz
     version: 1.5.2
-generated: "2025-05-12T09:34:52.895035372Z"
+generated: "2025-05-12T09:44:26.247252943Z"
